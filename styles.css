@@ -1,6 +1,16 @@
 body {
-    background: gray; 
+    background: red; 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12pt;
     text-align: center;
+}
+.assignment{
+    background:gray;
+    display:flex;
+    padding:10px;
+    
+}
+.assignment img{
+    height:200px;
+    width:200px;
 }
